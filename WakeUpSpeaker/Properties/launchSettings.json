@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WakeUpSpeaker": {
+      "commandName": "Project",
+      "commandLineArgs": "volume=80\r\nduration=2000"
+    }
+  }
+}
