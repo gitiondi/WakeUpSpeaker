@@ -40,7 +40,7 @@ The solution will not only work with the Logitech Z533, but with any speaker tha
 
 There is no installer. Everything is in the single exe file.  
 Put it in a directory of your choice. Ideally one that is in the PATH environment variable.  
-Download of the binary: [WakeUpSpeaker.exe](www.biondi.ch/downloads/WakeUpSpeaker/WakeUpSpeaker.exe)
+Download of the binary: [WakeUpSpeaker.exe](https://www.biondi.ch/downloads/WakeUpSpeaker/WakeUpSpeaker.exe)
 
 
 ## Warning
